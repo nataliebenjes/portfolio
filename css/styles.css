@@ -7,4 +7,46 @@ body {
   font-weight: 20;
   font-size: 1rem;
   letter-spacing: 3px;
+  margin: 0;
+}
+h1 {
+  float: center;
+}
+
+.box1 {
+  width: 60%;
+  padding: 4px;
+  border: 5px solid rgb(157, 157, 181);
+  margin-bottom: 50px;
+  box-sizing: border-box;
+  margin: 0 auto;
+
+}
+.box2 {
+  width: 60%;
+  padding: 10px;
+  border: 5px solid rgb(157, 157, 181);
+  border-width: 5px;
+  margin-bottom: 12px;
+  margin-top: 12px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.box3 {
+  width: 60%;
+  padding: 4px;
+  border: 5px solid rgb(157, 157, 181);
+  border-width: 5px;
+  margin-bottom: 12px;
+  margin-top: 12px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.centered-image {
+  width: 25%;
+  height: auto;
+  margin: auto;
+  display: block;
 }
