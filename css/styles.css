@@ -2,56 +2,28 @@
   background-color: rgb(233, 233, 233);
 }
 body {
-  /* margin: 0 auto; */
   font-family: "Helvetica Neue", "Arial", sans-serif;
-  font-weight: 20;
+  font-weight: 30;
   font-size: 1rem;
   letter-spacing: 3px;
-  margin: 0;
 }
 h1 {
-  float: center;
-  margin: 0 auto;
+  text-align: center;
 }
 
 .box1 {
   width: 60%;
   padding: 30px;
   border: 5px solid rgb(157, 157, 181);
+  border-radius: 1%;
   margin-bottom: 50px;
   margin-top: 50px;
-  /* box-sizing: border-box; */
-  margin: 0 auto;
-
-}
-.box2 {
-  width: 60%;
-  padding: 10px;
-  border: 5px solid rgb(157, 157, 181);
-  border-width: 5px;
-  margin-bottom: 12px;
-  margin-top: 12px;
-  /* box-sizing: border-box; */
-  margin: 0 auto;
-  /* float: left; */
-}
-
-.box3 {
-  width: 60%;
-  padding: 4px;
-  border: 5px solid rgb(157, 157, 181);
-  border-width: 5px;
-  margin-bottom: 12px;
-  margin-top: 12px;
-  /* box-sizing: border-box; */
-  margin: 0 auto;
-  /* float: left; */
+  margin: 20px auto;
 }
 
 .centered-image {
   width: 50%;
   height: auto;
-  margin: 0 auto;
-  display: block;
   float: right;
+  border-radius: 10%;
 }
