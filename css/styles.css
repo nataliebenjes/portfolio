@@ -19,6 +19,7 @@ h1 {
   margin-bottom: 50px;
   margin-top: 50px;
   margin: 20px auto;
+  
 }
 
 .centered-image {
@@ -26,4 +27,8 @@ h1 {
   height: auto;
   float: right;
   border-radius: 10%;
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
