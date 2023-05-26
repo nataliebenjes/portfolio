@@ -11,14 +11,16 @@ body {
 }
 h1 {
   float: center;
+  margin: 0 auto;
 }
 
 .box1 {
   width: 60%;
-  padding: 4px;
+  padding: 30px;
   border: 5px solid rgb(157, 157, 181);
   margin-bottom: 50px;
-  box-sizing: border-box;
+  margin-top: 50px;
+  /* box-sizing: border-box; */
   margin: 0 auto;
 
 }
@@ -29,8 +31,9 @@ h1 {
   border-width: 5px;
   margin-bottom: 12px;
   margin-top: 12px;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   margin: 0 auto;
+  /* float: left; */
 }
 
 .box3 {
@@ -40,13 +43,15 @@ h1 {
   border-width: 5px;
   margin-bottom: 12px;
   margin-top: 12px;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   margin: 0 auto;
+  /* float: left; */
 }
 
 .centered-image {
-  width: 25%;
+  width: 50%;
   height: auto;
-  margin: auto;
+  margin: 0 auto;
   display: block;
+  float: right;
 }
