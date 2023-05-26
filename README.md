@@ -8,8 +8,7 @@
 
 * _HTML_
 * _CSS_
-* _you used in your project_
-* _here_
+* _Bootstrap
 
 ## Description
 
@@ -23,7 +22,7 @@ _This website lists projects completed and their corresponding GitHub Repository
 
 ## Known Bugs
 
-* _No known bugs_
+* _Strong tags in accordion aren't working_
 
 
 ## License
