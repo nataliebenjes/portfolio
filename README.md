@@ -12,11 +12,11 @@
 
 ## Description
 
-_This website lists projects completed and their corresponding GitHub Repository links. Then shows an image and about me section._
+_This website lists projects completed and their corresponding GitHub Repository links. Then shows an image and about me section. There is a Nav bar at the top of the page, and an accordion feature in the about me section._
 
 ## Setup/Installation Requirements
 
-* _visit HitHub page link_
+* _visit GitHub page link_
 
 
 
