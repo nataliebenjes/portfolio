@@ -8,7 +8,6 @@
 
 * _HTML_
 * _CSS_
-* _JavaScript_
 
 ## Description
 
@@ -16,7 +15,7 @@ _This website lists projects completed and their corresponding GitHub Repository
 
 ## Setup/Installation Requirements
 
-* _visit GitHub page link_
+* _visit GitHub page link [https://nataliebenjes.github.io/portfolio/]_
 
 
 
