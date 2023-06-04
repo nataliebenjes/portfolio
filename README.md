@@ -15,8 +15,14 @@ _This website lists projects completed and their corresponding GitHub Repository
 
 ## Setup/Installation Requirements
 
-* _visit GitHub page link [https://nataliebenjes.github.io/portfolio/]_
+* _Download the repository "Portfolio" to your device._
+* _Open index.html_
 
+
+## GitHub Pages:
+
+
+* _[https://nataliebenjes.github.io/portfolio/]_
 
 
 ## Known Bugs
@@ -26,6 +32,5 @@ _This website lists projects completed and their corresponding GitHub Repository
 
 ## License
 
-_If issues with the code are found please contact Natalie Benjes. GitHub username is nataliebenjes_
-
-Copyright (c) _5/26/2023_Natalie Benjes_
+[MIT License](https://opensource.org/licenses/MIT)
+Copyright (c) _2023_Natalie Benjes_
